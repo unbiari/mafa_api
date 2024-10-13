@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variable files
+.env
+.env.*
+
+# Secrets
+secret.json
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MySQL database dumps
+*.sql
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Alembic
+alembic/versions/*.pyc
+alembic/versions/*.pyo
+alembic/versions/*~
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio
+.vs/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Sphinx documentation
+docs/_build/
+
+# Pytest cache
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Coverage reports
+htmlcov/
+cov_html/
+
+# Mypy cache
+.mypy_cache/
+
+# Profiling data
+.prof
+
+# Test artifacts
+.tox/
+.pytest_cache/
